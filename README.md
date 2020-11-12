@@ -3,7 +3,7 @@
 
 'download the project ' 
 
-'cd <projectname> ' 
+'cd projectname ' 
  
  'npm install ' 
  
